@@ -1,0 +1,6 @@
+question,optionA,optionB,optionC,correct_answer
+台北101位於哪個城市？,台中,台北,高雄,台北
+p5.js是用哪種語言編寫的函式庫？,Python,JavaScript,Java,JavaScript
+光速大約是多少？,每秒30萬公里,每秒3萬公里,每秒300萬公里,每秒30萬公里
+地球是圓的嗎？,是,否,不一定,是
+請問p5.js的setup函式會執行幾次？,一次,無窮多次,由draw決定,一次
